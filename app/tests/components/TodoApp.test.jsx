@@ -7,7 +7,7 @@ import $ from 'jquery';
 
 var configureStore = require('configureStore');
 
-import TodoApp from 'TodoApp';
+import {TodoApp} from 'TodoApp';
 import TodoList from 'TodoList';
 
 describe('TodoApp', () => {
